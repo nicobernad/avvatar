@@ -1,2 +1,2 @@
-# avvatar
+# Avvatar
 Build you financial freedom
